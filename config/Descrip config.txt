@@ -1,0 +1,1 @@
+Contiene los Archivos PHP de configuracion General y la Conexion con la Base de Datos
